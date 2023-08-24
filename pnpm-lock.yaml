@@ -13,6 +13,9 @@ dependencies:
   autoprefixer:
     specifier: 10.4.15
     version: 10.4.15(postcss@8.4.28)
+  client-only:
+    specifier: ^0.0.1
+    version: 0.0.1
   eslint:
     specifier: 8.47.0
     version: 8.47.0
